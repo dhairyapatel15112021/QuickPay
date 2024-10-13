@@ -1,0 +1,2 @@
+# QuickPay
+This project is a simplified version of a digital wallet system, where users can create accounts, log in, and transfer money to other registered users. The frontend is developed with React, styled using Tailwind CSS, and data is validated with Zod. Authentication is handled using JWT, while Context API is used for efficient state management. The backend is powered by Express, and MongoDB is utilized for data storage. This project provided valuable learning experience in full-stack development and implementing payment features.
